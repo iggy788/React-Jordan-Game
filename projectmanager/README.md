@@ -4,7 +4,7 @@
 
 In this game, you'll play a memory game I made with React.
 
-Check out the [My Game](https://iggy788.github.io/Clicky-Game-React/).
+Check out the [My Game](https://iggy788.github.io/React-Jordan-Game/).
 ### Instructions
 
 1. The application will keep track of your score. The score will be incremented when clicking an image for the first time. Your score will be reset to 0 if you click the same image more than once.
